@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hi! I'm Mauricio Rostagno
 
-<!--
-**MauriRos/MauriRos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Data Scientist | Data Analysis | Machine Learning**  
+🔎 Passionate about solving complex problems using data analysis and predictive models.  
+📈 Focused on transforming data into decisions through Python, R, SQL, and statistical tools.  
+🚀 Continuously learning Data Science, Deep Learning, and Artificial Intelligence.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Programming Languages:** Python, R, SQL, Java.
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch.
+- **Data Visualization:** Matplotlib, Seaborn, Power BI.
+- **Tools:** Google Colab, Jupyter Notebooks, GitHub.
+- **Statistics:** Descriptive and Inferential Analysis.
+- **Methodologies:** Scrum, Kanban.
+
+---
+
+### 📂 Featured Projects
+- 👥 **[Customer Segmentation – RFM Analysis](https://github.com/MauriRos/customer_segmentation_project)**  
+  *K-means, R, Exploratory Data Analysis.*
+
+
+
+---
+
+### 📫 Let’s Connect!
+- [LinkedIn](https://www.linkedin.com/in/mauriciorostagno/)
+- [GitHub](https://github.com/TU_USER)
+- ✉️ rostagno.mj@gmail.com
